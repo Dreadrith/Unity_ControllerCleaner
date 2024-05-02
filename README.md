@@ -5,6 +5,8 @@ Sub-assets are assets embedded into a parent asset but are hidden by default. Ce
 
 **This tool can scan and clean up the residue in your controllers.**
 
+### [Download From Here](https://vpm.dreadscripts.com/)
+
 ![image](https://cdn.discordapp.com/attachments/862661388782403604/1000457002855710820/claen.gif?ex=6633cfb1&is=66327e31&hm=9814a5909fd2e0e0abdc33bcac16708ee2a873e3eb7cf69adb3c512a0200cfbd&)
 
 ### Thank you
