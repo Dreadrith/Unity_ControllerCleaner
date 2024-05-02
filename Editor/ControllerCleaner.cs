@@ -20,7 +20,7 @@ namespace DreadScripts.ControllerCleaner
         private static readonly List<ScanResult> results = new List<ScanResult>();
         private static Vector2 scroll;
 
-        [MenuItem("DreadTools/Utilities/Controller Cleaner")]
+        [MenuItem("DreadTools/Utility/Controller Cleaner")]
         private static void ShowWindow()
              => GetWindow<ControllerCleaner>(false, "Controller Cleaner", true)
                  .titleContent.image = EditorGUIUtility.IconContent("Grid.PaintTool").image;
