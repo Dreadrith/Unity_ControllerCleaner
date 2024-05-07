@@ -1,7 +1,7 @@
 {
   "name": "com.dreadscripts.controllercleaner",
   "displayName": "DreadScripts - ControllerCleaner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Controller Editor's 'Cleanup unused sub-assets' in a standalone and faster script.",
   "gitDependencies": {},
   "vpmDependencies": {},
@@ -12,5 +12,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "type": "tool"
+  "type": "tool",
+  "unity": "2019.4"
 }
